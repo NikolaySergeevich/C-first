@@ -1,0 +1,15 @@
+D:\C#Лекция\Задания\Задание3_Сумма\bin\Debug\net6.0\Задание3_Сумма.exe
+D:\C#Лекция\Задания\Задание3_Сумма\bin\Debug\net6.0\Задание3_Сумма.deps.json
+D:\C#Лекция\Задания\Задание3_Сумма\bin\Debug\net6.0\Задание3_Сумма.runtimeconfig.json
+D:\C#Лекция\Задания\Задание3_Сумма\bin\Debug\net6.0\Задание3_Сумма.dll
+D:\C#Лекция\Задания\Задание3_Сумма\bin\Debug\net6.0\Задание3_Сумма.pdb
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.csproj.AssemblyReference.cache
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.AssemblyInfoInputs.cache
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.AssemblyInfo.cs
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.csproj.CoreCompileInputs.cache
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.dll
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\refint\Задание3_Сумма.dll
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.pdb
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\Задание3_Сумма.genruntimeconfig.cache
+D:\C#Лекция\Задания\Задание3_Сумма\obj\Debug\net6.0\ref\Задание3_Сумма.dll
