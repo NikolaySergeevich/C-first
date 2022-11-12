@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задание2_HelloNik/1.0.0": {
+        "runtime": {
+          "Задание2_HelloNik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задание2_HelloNik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\C#Лекция\Задания\Задание2_HelloNik\bin\Debug\net6.0\Задание2_HelloNik.exe
+D:\C#Лекция\Задания\Задание2_HelloNik\bin\Debug\net6.0\Задание2_HelloNik.deps.json
+D:\C#Лекция\Задания\Задание2_HelloNik\bin\Debug\net6.0\Задание2_HelloNik.runtimeconfig.json
+D:\C#Лекция\Задания\Задание2_HelloNik\bin\Debug\net6.0\Задание2_HelloNik.dll
+D:\C#Лекция\Задания\Задание2_HelloNik\bin\Debug\net6.0\Задание2_HelloNik.pdb
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.csproj.AssemblyReference.cache
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.AssemblyInfoInputs.cache
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.AssemblyInfo.cs
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.csproj.CoreCompileInputs.cache
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.dll
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\refint\Задание2_HelloNik.dll
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.pdb
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\Задание2_HelloNik.genruntimeconfig.cache
+D:\C#Лекция\Задания\Задание2_HelloNik\obj\Debug\net6.0\ref\Задание2_HelloNik.dll
