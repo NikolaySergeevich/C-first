@@ -1,0 +1,15 @@
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.csproj.AssemblyReference.cache
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.AssemblyInfoInputs.cache
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.AssemblyInfo.cs
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.csproj.CoreCompileInputs.cache
+D:\C#Лекция\Задания\Задание6_Цикл\bin\Debug\net6.0\Задание6_Цикл.exe
+D:\C#Лекция\Задания\Задание6_Цикл\bin\Debug\net6.0\Задание6_Цикл.deps.json
+D:\C#Лекция\Задания\Задание6_Цикл\bin\Debug\net6.0\Задание6_Цикл.runtimeconfig.json
+D:\C#Лекция\Задания\Задание6_Цикл\bin\Debug\net6.0\Задание6_Цикл.dll
+D:\C#Лекция\Задания\Задание6_Цикл\bin\Debug\net6.0\Задание6_Цикл.pdb
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.dll
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\refint\Задание6_Цикл.dll
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.pdb
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\Задание6_Цикл.genruntimeconfig.cache
+D:\C#Лекция\Задания\Задание6_Цикл\obj\Debug\net6.0\ref\Задание6_Цикл.dll
