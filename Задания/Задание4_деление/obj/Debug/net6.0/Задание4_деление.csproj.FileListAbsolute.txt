@@ -1,0 +1,15 @@
+D:\C#Лекция\Задания\Задание4_деление\bin\Debug\net6.0\Задание4_деление.exe
+D:\C#Лекция\Задания\Задание4_деление\bin\Debug\net6.0\Задание4_деление.deps.json
+D:\C#Лекция\Задания\Задание4_деление\bin\Debug\net6.0\Задание4_деление.runtimeconfig.json
+D:\C#Лекция\Задания\Задание4_деление\bin\Debug\net6.0\Задание4_деление.dll
+D:\C#Лекция\Задания\Задание4_деление\bin\Debug\net6.0\Задание4_деление.pdb
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.csproj.AssemblyReference.cache
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.AssemblyInfoInputs.cache
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.AssemblyInfo.cs
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.csproj.CoreCompileInputs.cache
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.dll
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\refint\Задание4_деление.dll
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.pdb
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\Задание4_деление.genruntimeconfig.cache
+D:\C#Лекция\Задания\Задание4_деление\obj\Debug\net6.0\ref\Задание4_деление.dll
