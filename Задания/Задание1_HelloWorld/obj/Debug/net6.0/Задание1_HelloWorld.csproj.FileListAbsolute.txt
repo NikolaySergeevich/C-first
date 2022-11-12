@@ -1,0 +1,15 @@
+D:\C#Лекция\Задания\Задание1_HelloWorld\bin\Debug\net6.0\Задание1_HelloWorld.exe
+D:\C#Лекция\Задания\Задание1_HelloWorld\bin\Debug\net6.0\Задание1_HelloWorld.deps.json
+D:\C#Лекция\Задания\Задание1_HelloWorld\bin\Debug\net6.0\Задание1_HelloWorld.runtimeconfig.json
+D:\C#Лекция\Задания\Задание1_HelloWorld\bin\Debug\net6.0\Задание1_HelloWorld.dll
+D:\C#Лекция\Задания\Задание1_HelloWorld\bin\Debug\net6.0\Задание1_HelloWorld.pdb
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.csproj.AssemblyReference.cache
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.AssemblyInfoInputs.cache
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.AssemblyInfo.cs
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.csproj.CoreCompileInputs.cache
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.dll
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\refint\Задание1_HelloWorld.dll
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.pdb
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\Задание1_HelloWorld.genruntimeconfig.cache
+D:\C#Лекция\Задания\Задание1_HelloWorld\obj\Debug\net6.0\ref\Задание1_HelloWorld.dll
